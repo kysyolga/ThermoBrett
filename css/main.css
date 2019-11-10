@@ -363,6 +363,12 @@ nav {
 
 .active-burger {
   display: block !important; }
+.btn a {
+  color: #fff;
+}
+.btn a:hover {
+  color: #60a946;
+}
 
 footer {
   background-color: #393939;
